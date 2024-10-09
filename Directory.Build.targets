@@ -1,0 +1,5 @@
+<Project>
+    <PropertyGroup>
+<!--        <DisableMicrosoftExtensionsLoggingSourceGenerator>false</DisableMicrosoftExtensionsLoggingSourceGenerator>-->
+    </PropertyGroup>
+</Project>
